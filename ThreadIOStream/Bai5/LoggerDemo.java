@@ -4,7 +4,7 @@ package ThreadIOStream.Bai5;
  */
 public class LoggerDemo {
     public static void main(String[] args) {
-        ThreadLogger logger = new ThreadLogger("application.log");
+        ThreadLogger logger = new ThreadLogger("ThreadIOStream/File/application.log");
 
         logger.start();
 

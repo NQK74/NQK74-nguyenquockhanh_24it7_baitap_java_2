@@ -8,9 +8,9 @@ public class Main {
 
         BlockingQueue<String> queue = new LinkedBlockingQueue<>();
 
-        ReaderThread reader = new ReaderThread("khanh.txt", queue);
+        ReaderThread reader = new ReaderThread("ThreadIOStream/File/khanh.txt", queue);
 
-        WriterThread writer = new WriterThread("destination.txt", queue);
+        WriterThread writer = new WriterThread("ThreadIOStream/File/destination.txt", queue);
 
         reader.start();
         writer.start();
