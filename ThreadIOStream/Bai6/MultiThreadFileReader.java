@@ -84,7 +84,7 @@ public class MultiThreadFileReader {
 
     public static void main(String[] args) {
         try {
-            String fileName = "largefile.txt";
+            String fileName = "ThreadIOStream/File/largefile.txt";
             int numThreads = 4;
 
             createSampleFileIfNotExist(fileName, 1024 * 1024); // 1MB file

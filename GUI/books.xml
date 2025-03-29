@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+
+  
+  
+  <book>
+                
+    
+    
+    <title>CNTT</title>
+                
+    
+    
+    <author>kha</author>
+                
+    
+    
+    <year>2014</year>
+                
+    
+    
+    <publisher>KHMT</publisher>
+                
+    
+    
+    <pages>120</pages>
+                
+    
+    
+    <genre>Sach Hoc</genre>
+                
+    
+    
+    <price>10.0</price>
+                
+    
+    
+    <isbn>hd</isbn>
+              
+  
+  
+  </book>
+      
+  
+  
+  <book>
+            
+    
+    <title>CNTT</title>
+            
+    
+    <author>kha</author>
+            
+    
+    <year>2014</year>
+            
+    
+    <publisher>KHMT</publisher>
+            
+    
+    <pages>120</pages>
+            
+    
+    <genre>Sach Hoc</genre>
+            
+    
+    <price>10.0</price>
+            
+    
+    <isbn>hd</isbn>
+          
+  
+  </book>
+    
+
+</books>

@@ -2,7 +2,7 @@ package ThreadIOStream.Bai10;
 
 public class URLDownloaderApp {
     public static void main(String[] args) {
-        String url = "khanh.txt";
+        String url = "ThreadIOStream/File/khanh.txt";
         String filePath = "downloaded_content.txt";
 
         DownloadThread downloadThread = new DownloadThread(url, filePath);

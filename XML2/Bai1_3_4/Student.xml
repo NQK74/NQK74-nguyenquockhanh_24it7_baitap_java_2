@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Students>
+  <student>
+
+    <id>1</id>
+
+    <name>Nguyen</name>
+    <age>19</age>
+    <major>CNTT</major>
+  </student>
+
+  <student>
+            
+    
+    <id>2</id>
+            
+    
+    <name>Quoc</name>
+            
+    
+    <age>19</age>
+            
+    
+    <major>CNTT</major>
+          
+  
+  </student>
+    
+
+  <student>
+    <id>3</id>
+    <name>Khanh</name>
+    <age>19</age>
+    <major>CNTT</major>
+  </student>
+</Students>
